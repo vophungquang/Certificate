@@ -8,3 +8,6 @@
 
 ## QML
 ![Demo](QML.jpg "Demo")
+
+## SOLID
+<img src="https://github.com/vophungquang/Certificate/blob/main/SOLID.jpg" width="700" alt="Demo" />
